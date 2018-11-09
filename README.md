@@ -2,9 +2,10 @@
 ---
 ## Project Summary
 ---
-This project details how to draw a shape on the map to limit your search within a particular area. It makes use of the geometry and drawing libraries provided by **googleapis**.
+This project details how to draw a shape on the map to limit your search within a particular area. It makes use of the _geometry_ and _drawing_ libraries provided by **googleapis**.
 
-Make sure you replace "MYAPIKEY" in the JavaScript API call with your generated API key in each code sample.
+_**Make sure you replace "MYAPIKEY" in the JavaScript API call with your generated API key in each code sample.**_
+
 ---
 ## More Info.
 ---
